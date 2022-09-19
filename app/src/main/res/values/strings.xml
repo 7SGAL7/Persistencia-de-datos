@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">PersistenciaDeDatos</string>
+
+    <string name="name">Nombre</string>
+    <string name="last_name">Apellido</string>
+    <string name="Woman">Mujer</string>
+    <string name="Man">Hombre</string>
+    <string name="add">Agregar</string>
+
+    <string name="full_name">Nombre completo</string>
+    <string name="details">Detalles</string>
+    <string name="update">Actualizar</string>
+
+
+    <string name="name_details">Nombre</string>
+    <string name="last_name_details">Apellido</string>
+    <string name="delete">X</string>
+</resources>
